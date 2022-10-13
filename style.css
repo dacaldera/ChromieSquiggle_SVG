@@ -1,0 +1,22 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+  margin-left: 20;
+  margin-right: 20;
+  margin-top: 20px;
+}
+
+.inputData {
+margin:20px;
+}
+
+#svgButton {
+margin-left: 200px;
+}
+
+#toggleColor{
+margin-left: 50px;
+}
