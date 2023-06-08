@@ -1,5 +1,5 @@
 let squiggleNumber = 7515;
-let ringSpacing = 1
+let ringSpacing = 3
 let grayscale = false;
 /*
 createTokenId funciton is called with squiggle number
